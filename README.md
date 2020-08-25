@@ -6,7 +6,7 @@ Eye and Face detection using computer vision library
  
  You can download face.xml from Here :- http://alereimondo.no-ip.org/OpenCV/34
  
- In this project we are detect Cars using OpenCv library
+ In this project we are detect Eye and Face using OpenCv library
  
  ![image](https://user-images.githubusercontent.com/68801296/91127210-6d995d00-e6c3-11ea-8640-4dd596db364f.png)
 
