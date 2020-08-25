@@ -4,7 +4,7 @@ Eye and Face detection using computer vision library
  
  You can download eye.xml from Here :- https://osdn.net/projects/sfnet_magicvisionport/downloads/mvp/cascades/haarcascade_eye.xml/
  
- You can download face.xml from Here :- http://alereimondo.no-ip.org/OpenCV/34
+ You can download face.xml from Here :-https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
  
  In this project we are detect Eye and Face using OpenCv library
  
