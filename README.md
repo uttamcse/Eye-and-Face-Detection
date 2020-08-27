@@ -13,4 +13,8 @@ Eye and Face detection using computer vision library
  OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
  
 
+## Result
+
+![gif](https://user-images.githubusercontent.com/68801296/91438032-60799b00-e888-11ea-96e2-bd083afa473e.gif)
+
 
